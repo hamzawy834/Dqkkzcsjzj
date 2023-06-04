@@ -76,7 +76,7 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = [''] 
+global.owner = ['https://wa.me/+967775317680'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 |𝑩𝑶𝑻-𝑳𝑼𝑮𝑰𝑭𝑬𝑹6٦: ²⁰²³'
 //👇 Your Bot Name
@@ -114,7 +114,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 DISABLE PM Block numbers
-global.NO_BLOCK = ["733772709","779320873"]
+global.NO_BLOCK = ["775317680","775317680"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
@@ -164,8 +164,8 @@ global.mess = {
 
 
 //other
-global.pemilik = ['733772709'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['733772709'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['775317680'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['775317680'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
