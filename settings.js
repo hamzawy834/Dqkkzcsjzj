@@ -76,15 +76,15 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['733772709'] 
+global.owner = [''] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 « دكتاتہۧﹻ۬ﹻ۬ﹻۧۧﹻ۬ﹻ۬۬وࢪ » ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 |𝑩𝑶𝑻-𝑳𝑼𝑮𝑰𝑭𝑬𝑹6٦: ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  'بوت « دكتاتہۧﹻ۬ﹻ۬ﹻۧۧﹻ۬ﹻ۬۬وࢪ »' 
+global.botnma =  '|𝑩𝑶𝑻-𝑳𝑼𝑮𝑰𝑭𝑬𝑹6٦:' 
 //👇 Your name
-global.ownernma =  'MR.X' 
+global.ownernma =  '-𝑳𝑼𝑮𝑰𝑭𝑬𝑹6٦:' 
 //👇 Sticker Author Name
-global.packname =  '« دكتاتہۧﹻ۬ﹻ۬ﹻۧۧﹻ۬ﹻ۬۬وࢪ »' 
+global.packname =  '-𝑳𝑼𝑮𝑰𝑭𝑬𝑹6٦:' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
